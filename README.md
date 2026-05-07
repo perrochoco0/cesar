@@ -1,2 +1,2 @@
 # cesar
-Cesar is a Coder and Decoder sofware for Caesar Cipher.
+Cesar is a Coder and Decoder software for Caesar Cipher.
